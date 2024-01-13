@@ -12,7 +12,7 @@ HYBE 서버에서 사용되었던 디스코드(Discord) 활동 상태 표시 시
 1. https://discord.com/developers/application 에 접속하여 새로운 애플리케이션을 생성합니다.
 2. `General Information`에 있는 `APPLICATION ID`를 확인합니다.
 3. `Rich Presence`에서 `Rich Presence Assets`항목에 원하는 이미지 두 장를 업로드 합니다.
-6. `lua/client.lua`에 해당 사항을 적용합니다.
+6. `lua/client/client.lua`에 해당 사항을 적용합니다.
 
 ```lua
 local discordAppId = -- APPLICATION ID
