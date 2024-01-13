@@ -1,4 +1,5 @@
-# Discord Rich Presence for FiveM (vRP)
+# itsruin_discordActive 
+Discord Rich Presence for FiveM (vRP)
 
 ## 소개
 HYBE 서버에서 사용되었던 디스코드(Discord) 활동 상태 표시 시스템입니다.<br/>
