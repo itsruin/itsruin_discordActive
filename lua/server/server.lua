@@ -1,5 +1,5 @@
-local Proxy = require("vrp", "lib/Proxy")
-local Tunnel = require("vrp", "lib/Tunnel")
+local Proxy = module("vrp", "lib/Proxy")
+local Tunnel = module("vrp", "lib/Tunnel")
 
 vRP = Proxy.getInterface("vRP")
 
